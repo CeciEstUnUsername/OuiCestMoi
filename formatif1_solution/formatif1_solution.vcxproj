@@ -160,6 +160,7 @@
   <ItemGroup>
     <ClInclude Include="..\screen\screen.h" />
     <ClInclude Include="activite.h" />
+    <ClInclude Include="donnees.h" />
     <ClInclude Include="eleve.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
